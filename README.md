@@ -20,9 +20,9 @@ The Contoso Bistro lasagna is a classic! The outdoor back patio is such a vibe, 
 
 **Insights:**
 
-*Uma coisa interessante que dá pra perceber é que um comentário pode até começar com algo negativo, como "long waits", mas ainda assim ser visto como positivo dependendo do contexto e da justificativa.  
+Uma coisa interessante que dá pra perceber é que um comentário pode até começar com algo negativo, como "long waits", mas ainda assim ser visto como positivo dependendo do contexto e da justificativa.  
 As palavras de ligação, como "but" e "though", fazem toda a diferença porque podem suavizar ou até reverter o tom da frase. Outra coisa que influencia bastante são emojis e expressões mais informais, tipo ":)" ou "Love this place", que deixam a mensagem com um tom mais animado.  
-Isso mostra como a análise de sentimentos pode ser útil, principalmente para empresas que querem entender melhor o que os clientes estão dizendo. Além disso, é um ótimo jeito de ensinar algoritmos a interpretar melhor comentários mistos e evitar interpretações erradas.*
+Isso mostra como a análise de sentimentos pode ser útil, principalmente para empresas que querem entender melhor o que os clientes estão dizendo. Além disso, é um ótimo jeito de ensinar algoritmos a interpretar melhor comentários mistos e evitar interpretações erradas.
 
 <br>
 <br>
@@ -47,7 +47,7 @@ Dá pra ver que esse comentário tem um tom bem negativo, principalmente porque 
 
 Palavras e expressões como "very cold and dry", "the whole experience was just awful" e "I expect a refund" deixam claro o nível de insatisfação. Além disso, ele usa um tom mais formal e direto ao exigir um reembolso e um pedido de desculpas, o que reforça a seriedade da reclamação.
 
-Esse tipo de análise pode ajudar empresas a identificar rapidamente feedbacks negativos e agir para resolver o problema. Além disso, dá pra treinar algoritmos para diferenciar críticas construtivas de reclamações mais sérias que exigem uma resposta urgente.
+Essa análise pode ajudar empresas a identificar rapidamente feedbacks negativos e agir para resolver o problema. Além disso, dá pra treinar algoritmos para diferenciar críticas construtivas de reclamações mais sérias que exigem uma resposta urgente.
 <br>
 <br>
 
@@ -69,5 +69,5 @@ Esse comentário tem um tom claramente negativo, já que o autor expressa insati
 
 Além disso, a menção ao preço ("$15 for a plate of burger and fries does not seem subsidized") sugere que o cliente esperava um custo menor, talvez por ser um refeitório com algum tipo de subsídio. Isso mostra que a insatisfação não é apenas com a comida, mas também com a precificação.
 
-Esse tipo de feedback pode ser útil para empresas ajustarem preços ou melhorarem a qualidade do serviço. Para a análise de sentimentos, é um bom exemplo de como detectar frustração e possíveis expectativas não atendidas com base no tom das palavras.
+Isso pode ser útil para empresas ajustarem preços ou melhorarem a qualidade do serviço. Para a análise de sentimentos, é um bom exemplo de como detectar frustração e possíveis expectativas não atendidas com base no tom das palavras.
 
